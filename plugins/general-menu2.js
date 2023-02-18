@@ -184,23 +184,23 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© TioXd Official',
+                            message: '© X-ONE-MD',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/c608e029aec482a905acf.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/9017b72bb209a0dadb9f5.png')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
+await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/c608e029aec482a905acf.jpg')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴜʟᴛɪ ᴀᴜᴛʜ',  
-              body: '© ᴛɪᴏxᴅ', 
-              description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ᴛɪᴏxᴅ', 
+              body: '© X-ONE-MD', 
+              description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ X-ONE-MD', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/dc5a67d724b016574129b.jpg')).buffer(), 
+            thumbnail: await (await fetch('https://telegra.ph/file/c608e029aec482a905acf.jpg')).buffer(), 
            mediaUrl: `https://www.facebook.com/tio.permana.50999` 
           }  
        }  
