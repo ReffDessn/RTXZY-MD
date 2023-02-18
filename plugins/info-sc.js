@@ -7,6 +7,6 @@ conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m)
 }
 handler.help = ['sekrip', 'sourcecodebot']
 handler.tags = ['info']
-handler.command = /^(sc|sourcecode)$/i
+handler.command = /^(sekript|sourcebot)$/i
 
 module.exports = handler
